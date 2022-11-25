@@ -2,3 +2,4 @@
 Hier liegt mein **Bash-Skript** und das *Pad* auf Modul 4
 
 - 2022-11-25 
+- Autorin: Rabea Müller
